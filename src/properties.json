@@ -1,0 +1,303 @@
+[
+  {
+    "id": "prop1",
+    "title": "Modern Riverside House",
+    "type": "House",
+    "price": 620000,
+    "bedrooms": 4,
+    "postcodeArea": "BR1",
+    "dateAdded": "2024 February 16",
+    "image": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "letType": "Long term",
+    "tenure": "Freehold",
+    "keyFeatures": [
+      " Spacious Double Bedroom",
+      " Modern kitchen with high-end finishes",
+      " Open-concept living area",
+      " Private garden"
+    ],
+    "address": {
+      "street": "Bromely Road",
+      "city": "London",
+      "postcode": "BR1"
+    },
+    "description": "A modern 4-bedroom riverside villa with stunning views.",
+    "longDescription": "Located on the banks of the River Thames, this villa offers breathtaking views from the large windows in every room. The spacious living area is perfect for relaxing, with a sleek modern kitchen equipped with the latest appliances. The garden is a peaceful retreat with room for outdoor dining. Each of the four bedrooms is generously sized, with ample natural light. The home features top-notch security and smart home systems for added convenience. This is a prime property for anyone who enjoys both modern luxury and nature.",
+    "images": [
+      "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/7167990/pexels-photo-7167990.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/2134224/pexels-photo-2134224.jpeg",
+      "https://images.pexels.com/photos/8583897/pexels-photo-8583897.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/9056669/pexels-photo-9056669.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/5439498/pexels-photo-5439498.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/259593/pexels-photo-259593.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    ],
+    "floorPlan": "/assets/floorplans/FloorPlan1.jpg",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19909.22827398549!2d0.02726733135831634!3d51.40942047440961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a9f5929e089d%3A0x5cfd356d7e6943fd!2sBromley%20BR1%2C%20UK!5e0!3m2!1sen!2slk!4v1735537360512!5m2!1sen!2slk"
+  },
+
+  {
+    "id": "prop2",
+    "title": "Charming City Loft",
+    "type": "Apartment",
+    "price": 530000,
+    "bedrooms": 3,
+    "postcodeArea": "NW3",
+    "dateAdded": "2024 January 15",
+    "image": "/assets/property2.jpg",
+    "letType": "Long term",
+    "tenure": "Freehold",
+    "keyFeatures": [
+      " Spacious open-plan living area",
+      " High ceilings",
+      " Central location near transport",
+      " Fully equipped kitchen"
+    ],
+    "address": {
+      "street": "Willesden Lane",
+      "city": "London",
+      "postcode": "NW3"
+    },
+    "description": "A stylish 3-bedroom city loft with exceptional views.",
+    "longDescription": "This charming city loft is located in the heart of London, offering sweeping views of the skyline. With its high ceilings and wide windows, the apartment has a bright and airy feel. The open-plan living area creates a perfect space for entertaining or relaxing. The kitchen is fully equipped with modern appliances, ideal for home chefs. The bedrooms are cozy yet spacious, with plenty of storage space. The location is unbeatable, with easy access to shops, restaurants, and public transport links.",
+    "images": [
+      "/assets/property2.jpg",
+      "https://img.freepik.com/free-photo/modern-apartment-architecture_1268-14696.jpg?t=st=1735533997~exp=1735537597~hmac=40b1e74e1e76c702c4bb98ddae487282c116d04332b81b1fe41ed6b94bc705ac&w=900",
+      "https://images.pexels.com/photos/7533764/pexels-photo-7533764.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/6585768/pexels-photo-6585768.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/27543242/pexels-photo-27543242/free-photo-of-a-bedroom-with-a-bed-and-a-large-window.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+      "https://images.pexels.com/photos/6957080/pexels-photo-6957080.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/4469172/pexels-photo-4469172.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/3284980/pexels-photo-3284980.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    ],
+    "floorPlan": "https://www.maramani.com/cdn/shop/products/ID12220-FloorPlan.jpg?v=1663745888&width=3569",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d13868.748154465948!2d-0.18461027892499118!3d51.55203709833292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sapartments%20near%20London%20NW3%2C%20UK!5e0!3m2!1sen!2slk!4v1736049382889!5m2!1sen!2slk"
+  },
+
+  {
+    "id": "prop3",
+    "title": "Elegant Townhouse Retreat",
+    "type": "House",
+    "price": 585000,
+    "bedrooms": 4,
+    "postcodeArea": "BR7",
+    "dateAdded": "2024 March 05",
+    "image": "/assets/property3.jpeg",
+    "letType": "Long term",
+    "tenure": "Freehold",
+    "keyFeatures": [
+      " Large reception area",
+      " Contemporary design",
+      " Close to parks and schools",
+      " Private outdoor space"
+    ],
+    "address": {
+      "street": "King's Crescent",
+      "city": "London",
+      "postcode": "BR7"
+    },
+    "description": "An elegant 4-bedroom townhouse perfect for family living.",
+    "longDescription": "This elegant townhouse is designed with modern living in mind, offering spacious rooms and contemporary finishes. The large reception area provides an inviting atmosphere for gatherings and family time. The kitchen is designed for functionality, with sleek counters and modern cabinetry. Upstairs, the bedrooms are spacious and offer a great deal of privacy, ideal for family life. Located close to local parks and schools, this townhouse offers a family-friendly neighborhood. Enjoy a private outdoor area, perfect for relaxation or a summer barbecue.",
+    "images": [
+      "/assets/property3.jpeg",
+      "https://images.pexels.com/photos/8583534/pexels-photo-8583534.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/10981670/pexels-photo-10981670.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/7027997/pexels-photo-7027997.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/7027999/pexels-photo-7027999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/7027995/pexels-photo-7027995.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/6969997/pexels-photo-6969997.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "/assets/property1/thumbnail8.jpg"
+    ],
+    "floorPlan": "https://www.truoba.com/wp-content/uploads/2023/06/Truoba-723-second-floor-plan.png.webp",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2480.361741352806!2d-0.09800172382348156!3d51.561601706742934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b80b825cddf%3A0x13ea37b80e47065a!2sKing&#39;s%20Cres%2C%20Finsbury%20Park%2C%20London%2C%20UK!5e0!3m2!1sen!2slk!4v1736049793469!5m2!1sen!2slk"
+  },
+
+  {
+    "id": "prop4",
+    "title": "Luxury Penthouse Suite",
+    "type": "Apartment",
+    "price": 750000,
+    "bedrooms": 2,
+    "postcodeArea": "NW8",
+    "dateAdded": "2024 March 05",
+    "image": "https://img.freepik.com/free-photo/beautiful-contemporary-modern-design-apartment-with-natural-light-fron-bir-window-white-curtain_609648-70.jpg?t=st=1735533881~exp=1735537481~hmac=3c5e671e33c4d1afe9faa6f0e7fa99cd5dac94ff4e4169af60ada9a8889b7b70&w=1480",
+    "letType": "Long term",
+    "tenure": "Freehold",
+    "keyFeatures": [
+      " Panoramic views",
+      " Rooftop terrace",
+      " State-of-the-art appliances",
+      " Located in a prime area"
+    ],
+    "address": {
+      "street": "Skyline Terrace",
+      "city": "London",
+      "postcode": "NW8"
+    },
+    "description": "A luxurious 3-bedroom penthouse with rooftop access.",
+    "longDescription": "This luxury penthouse suite offers panoramic views of the London skyline, creating a spectacular backdrop for everyday living. The rooftop terrace provides an ideal space for relaxation or entertaining guests while taking in the view. Inside, the open-plan living area features state-of-the-art appliances, with a modern kitchen and stylish furnishings. Each bedroom offers expansive space and high-end finishes. Located in a prime area of London, you’ll have easy access to upscale dining, shopping, and entertainment. This is the perfect home for those seeking both luxury and convenience.",
+    "images": [
+      "https://img.freepik.com/free-photo/beautiful-contemporary-modern-design-apartment-with-natural-light-fron-bir-window-white-curtain_609648-70.jpg?t=st=1735533881~exp=1735537481~hmac=3c5e671e33c4d1afe9faa6f0e7fa99cd5dac94ff4e4169af60ada9a8889b7b70&w=1480",
+      "https://images.pexels.com/photos/1571468/pexels-photo-1571468.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/1571453/pexels-photo-1571453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/1571469/pexels-photo-1571469.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/18470955/pexels-photo-18470955/free-photo-of-modern-bedroom-interior.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+      "https://images.pexels.com/photos/6969997/pexels-photo-6969997.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "floorPlan": "https://wpmedia.roomsketcher.com/content/uploads/2022/01/06145219/Floor-plan-with-dimensions.jpg",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d44893.56335610497!2d-0.5614304865509103!3d54.489203970583205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761c76bfa66f5f%3A0x3b9ef19c90a7fe7e!2sSkyline%20Apartments!5e0!3m2!1sen!2slk!4v1736049939029!5m2!1sen!2slk"
+  },
+
+  {
+    "id": "prop5",
+    "title": "Cosy Family Apartment",
+    "type": "Apartment",
+    "price": 470000,
+    "bedrooms": 3,
+    "postcodeArea": "NW4",
+    "dateAdded": "2024 February 23",
+    "image": "https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "letType": "Long term",
+    "tenure": "Freehold",
+    "keyFeatures": [
+      " Traditional country-style kitchen",
+      " Secluded garden",
+      " Close to local amenities",
+      " Pet-friendly"
+    ],
+    "address": {
+      "street": "Holly Lane",
+      "city": "London",
+      "postcode": "NW4"
+    },
+    "description": "A charming 3-bedroom cottage with a large garden.",
+    "longDescription": "Nestled in a quiet neighborhood, this family cottage offers a warm and inviting atmosphere. The traditional country-style kitchen provides a perfect setting for home cooking and family meals. A secluded garden at the back of the house allows for privacy and relaxation. The three bedrooms are designed for comfort and provide ample space for a growing family. This home is pet-friendly, making it ideal for animal lovers. The location is close to local amenities such as schools, shops, and parks, ensuring convenience for daily life.",
+    "images": [
+      "https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/7045918/pexels-photo-7045918.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/7061673/pexels-photo-7061673.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/7167075/pexels-photo-7167075.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/6265831/pexels-photo-6265831.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/8089079/pexels-photo-8089079.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/7031716/pexels-photo-7031716.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    ],
+    "floorPlan": "https://img.staticmb.com/mbcontent/images/crop/uploads/2023/10/2D-house-plan-design_0_1200.jpg",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d243745.85225836918!2d-0.49973469778925705!3d51.63526571143698!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sholy%20lane%2CNW4!5e0!3m2!1sen!2slk!4v1736050167756!5m2!1sen!2slk"
+  },
+
+  {
+    "id": "prop6",
+    "title": "Modern Studio House",
+    "type": "House",
+    "price": 420000,
+    "bedrooms": 5,
+    "postcodeArea": "BR7",
+    "dateAdded": "2024 January 15",
+    "image": "/assets/property6.jpg",
+    "letType": "Long term",
+    "tenure": "Freehold",
+    "keyFeatures": [
+      " Compact and modern design",
+      " High ceilings",
+      " Built-in storage",
+      " Close to transport links"
+    ],
+    "address": {
+      "street": "Park View Road",
+      "city": "London",
+      "postcode": "BR7"
+    },
+    "description": "A stylish and modern 5 bedroom house.",
+    "longDescription": "This modern studio flat is designed to maximize space while offering a stylish living environment. High ceilings give the space an open, airy feel, while built-in storage helps keep the flat organized. The design is contemporary, with sleek finishes and modern fixtures throughout. Located near transport links, you’ll have easy access to central London. The flat is perfect for professionals or anyone looking for a compact, low-maintenance living space. Ideal for those who value convenience and comfort in a city environment.",
+    "images": [
+      "/assets/property6.jpg",
+      "https://images.pexels.com/photos/16501331/pexels-photo-16501331/free-photo-of-table-and-couch-in-room.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/6492400/pexels-photo-6492400.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/1457841/pexels-photo-1457841.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/7168077/pexels-photo-7168077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/7166560/pexels-photo-7166560.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    ],
+    "floorPlan": "https://wpmedia.roomsketcher.com/content/uploads/2022/01/06145940/What-is-a-floor-plan-with-dimensions.png",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d79050.45863316703!2d-0.2049020468626954!3d51.59772586204098!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761c25b78e1e91%3A0x6d6b16dedc0cc640!2sPark%20View%20Rd%2C%20London%2C%20UK!5e0!3m2!1sen!2slk!4v1736050249975!5m2!1sen!2slk"
+  },
+
+  {
+    "id": "prop7",
+    "title": "Country Estate Mansion",
+    "type": "House",
+    "price": 950000,
+    "bedrooms": 6,
+    "postcodeArea": "BR7",
+    "dateAdded": "2024 March 08",
+    "image": "https://images.pexels.com/photos/18038074/pexels-photo-18038074/free-photo-of-house-with-garden.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "letType": "Long term",
+    "tenure": "Freehold",
+    "keyFeatures": [
+      " Expansive grounds",
+      " Multiple living areas",
+      " Indoor pool",
+      " Private office space"
+    ],
+    "address": {
+      "street": "Bromely Road",
+      "city": "London",
+      "postcode": "BR7"
+    },
+    "description": "A sprawling 6-bedroom mansion with luxury amenities.",
+    "longDescription": "This grand country estate offers everything one could wish for in a luxury home. The expansive grounds provide privacy and space for outdoor activities. Inside, the mansion features multiple living areas, including a formal dining room and a spacious family room. A state-of-the-art indoor pool adds to the amenities, along with a private office space. The six bedrooms are spacious, and the master suite includes a large walk-in closet and en suite bathroom. Perfect for those looking for the ultimate in luxury living.",
+    "images": [
+      "https://images.pexels.com/photos/18038074/pexels-photo-18038074/free-photo-of-house-with-garden.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "/assets/property1/thumbnail2.jpg",
+      "/assets/property1/thumbnail3.jpg",
+      "/assets/property1/thumbnail4.jpg",
+      "/assets/property1/thumbnail5.jpg",
+      "/assets/property1/thumbnail6.jpg",
+      "/assets/property1/thumbnail7.jpg",
+      "/assets/property1/thumbnail8.jpg"
+    ],
+    "floorPlan": "https://illustrarch.com/wp-content/uploads/2022/09/305_Moondance_Plan.jpg",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14435.14787559115!2d0.05334756781204561!3d51.41061026775456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8aa320af91b0b%3A0xad7f1a91e22fe6bc!2sBR7%2C%20UK!5e0!3m2!1sen!2slk!4v1736050346147!5m2!1sen!2slk"
+  },
+
+  {
+    "id": "prop8",
+    "title": "Sleek Urban Loft",
+    "type": "Apartment",
+    "price": 500000,
+    "bedrooms": 3,
+    "postcodeArea": "NW9",
+    "dateAdded": "2024 March 20 ",
+    "image": "/assets/property8.jpeg",
+    "letType": "Long term",
+    "tenure": "Freehold",
+    "keyFeatures": [
+      " High ceilings and open floor plan",
+      " Central location",
+      " Modern fixtures and finishes",
+      " Pet-friendly"
+    ],
+    "address": {
+      "street": "Kingsbury Road",
+      "city": "London",
+      "postcode": "NW9"
+    },
+    "description": "A trendy 2-bedroom loft with a central location.",
+    "longDescription": "This sleek urban loft offers modern living in the heart of the city. With high ceilings and an open floor plan, the space feels bright and spacious. The kitchen is outfitted with the latest fixtures, and the living area is perfect for hosting or relaxing. The two bedrooms are stylish and offer a peaceful retreat from the bustling city. Located centrally, you’ll have easy access to shops, restaurants, and public transport. This loft is ideal for young professionals or couples who enjoy city living with modern amenities.",
+    "images": [
+      "/assets/property8.jpeg",
+      "https://images.pexels.com/photos/1571450/pexels-photo-1571450.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/27562195/pexels-photo-27562195/free-photo-of-residential-project-in-sulaymaniyah-city.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/7005291/pexels-photo-7005291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/271619/pexels-photo-271619.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/7534544/pexels-photo-7534544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "https://images.pexels.com/photos/7031843/pexels-photo-7031843.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    ],
+    "floorPlan": "https://images.homify.com/v1539503219/p/photo/image/2748239/3D_Floor_Plan_Rendering_Sample.jpg",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d20214.6692966462!2d-0.2724826707432791!3d51.58880634954831!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487610e1858f880b%3A0x4a48628f7f6ee4ab!2sLondon%20NW9%2C%20UK!5e0!3m2!1sen!2slk!4v1736050475057!5m2!1sen!2slk" 
+  }
+]
