@@ -11,6 +11,5 @@ A React-based website for browsing and booking real estate properties. It featur
 ## 🛠️ Technologies Used
 - ⚛️ React  
 - 🚦 React Router  
-- 🖱️ React DnD  
 - 📂 JSON for property data  
 - 💾 LocalStorage for favorites  
